@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    text-emphasis-color:rgb(157, 0, 255)
+;
+}
+a{
+    text-emphasis-color: rgb(140, 0, 255)
+    ;
+}
+body{
+    background-color: rgb(254, 161, 0);
+}
+p{
+    text-emphasis-color: rgb(187, 0, 255)
+}
+p{
+    word-spacing: 16px
+}
+p{
+    background-color: #fff;
+}
